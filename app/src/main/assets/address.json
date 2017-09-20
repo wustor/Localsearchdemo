@@ -1,0 +1,2012 @@
+  [
+    {
+      "regionAcount": 0,
+      "regionId": "36",
+      "regionName": "石家庄",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "37",
+      "regionName": "张家口",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "38",
+      "regionName": "承德",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "39",
+      "regionName": "唐山",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "40",
+      "regionName": "秦皇岛",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "41",
+      "regionName": "廊坊",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "42",
+      "regionName": "保定",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "43",
+      "regionName": "沧州",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "44",
+      "regionName": "衡水",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "45",
+      "regionName": "邢台",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "46",
+      "regionName": "邯郸",
+      "parentId": "5"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "47",
+      "regionName": "太原",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "48",
+      "regionName": "大同",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "49",
+      "regionName": "朔州",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "50",
+      "regionName": "忻州",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "51",
+      "regionName": "阳泉",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "52",
+      "regionName": "晋中",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "53",
+      "regionName": "吕梁",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "54",
+      "regionName": "长治",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "55",
+      "regionName": "临汾",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "56",
+      "regionName": "晋城",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "57",
+      "regionName": "运城",
+      "parentId": "6"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "58",
+      "regionName": "呼和浩特",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "59",
+      "regionName": "呼伦贝尔",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "60",
+      "regionName": "通辽",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "61",
+      "regionName": "赤峰",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "62",
+      "regionName": "巴彦淖尔",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "63",
+      "regionName": "乌兰察布",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "64",
+      "regionName": "包头",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "65",
+      "regionName": "鄂尔多斯",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "66",
+      "regionName": "乌海",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "67",
+      "regionName": "锡林郭勒盟",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "68",
+      "regionName": "阿拉善盟",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "69",
+      "regionName": "和兴安盟",
+      "parentId": "7"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "70",
+      "regionName": "哈尔滨",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "71",
+      "regionName": "黑河",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "72",
+      "regionName": "伊春",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "73",
+      "regionName": "齐齐哈尔",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "74",
+      "regionName": "鹤岗",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "75",
+      "regionName": "佳木斯",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "76",
+      "regionName": "双鸭山",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "77",
+      "regionName": "绥化",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "78",
+      "regionName": "大庆",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "79",
+      "regionName": "七台河",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "80",
+      "regionName": "鸡西",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "81",
+      "regionName": "牡丹江",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "82",
+      "regionName": "大兴安岭地区",
+      "parentId": "8"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "83",
+      "regionName": "长春",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "84",
+      "regionName": "白城",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "85",
+      "regionName": "松原",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "86",
+      "regionName": "吉林",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "87",
+      "regionName": "四平",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "88",
+      "regionName": "辽源",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "89",
+      "regionName": "白山",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "90",
+      "regionName": "通化",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "91",
+      "regionName": "延边朝鲜族自治州",
+      "parentId": "9"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "92",
+      "regionName": "沈阳",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "93",
+      "regionName": "铁岭",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "94",
+      "regionName": "阜新",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "95",
+      "regionName": "抚顺",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "96",
+      "regionName": "朝阳",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "97",
+      "regionName": "本溪",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "98",
+      "regionName": "辽阳",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "99",
+      "regionName": "鞍山",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "100",
+      "regionName": "盘锦",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "101",
+      "regionName": "锦州",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "102",
+      "regionName": "葫芦岛",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "103",
+      "regionName": "营口",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "104",
+      "regionName": "丹东",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "105",
+      "regionName": "大连",
+      "parentId": "10"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "106",
+      "regionName": "南京",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "107",
+      "regionName": "连云港",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "108",
+      "regionName": "徐州",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "109",
+      "regionName": "宿迁",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "110",
+      "regionName": "淮安",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "111",
+      "regionName": "盐城",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "112",
+      "regionName": "泰州",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "113",
+      "regionName": "扬州",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "114",
+      "regionName": "镇江",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "115",
+      "regionName": "南通",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "116",
+      "regionName": "常州",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "117",
+      "regionName": "无锡",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "118",
+      "regionName": "苏州",
+      "parentId": "11"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "119",
+      "regionName": "杭州",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "120",
+      "regionName": "湖州",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "121",
+      "regionName": "嘉兴",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "122",
+      "regionName": "绍兴",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "123",
+      "regionName": "舟山",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "124",
+      "regionName": "宁波",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "125",
+      "regionName": "金华",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "126",
+      "regionName": "衢州",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "127",
+      "regionName": "台州",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "128",
+      "regionName": "丽水",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "129",
+      "regionName": "温州",
+      "parentId": "12"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "130",
+      "regionName": "合肥",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "131",
+      "regionName": "淮北",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "132",
+      "regionName": "亳州",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "133",
+      "regionName": "宿州",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "134",
+      "regionName": "蚌埠",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "135",
+      "regionName": "阜阳",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "136",
+      "regionName": "淮南",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "137",
+      "regionName": "滁州",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "138",
+      "regionName": "六安",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "139",
+      "regionName": "马鞍山",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "140",
+      "regionName": "巢湖",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "141",
+      "regionName": "芜湖",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "142",
+      "regionName": "宣城",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "143",
+      "regionName": "铜陵",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "144",
+      "regionName": "池州",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "145",
+      "regionName": "安庆",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "146",
+      "regionName": "黄山",
+      "parentId": "13"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "147",
+      "regionName": "福州",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "148",
+      "regionName": "宁德",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "149",
+      "regionName": "南平",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "150",
+      "regionName": "三明",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "151",
+      "regionName": "莆田",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "152",
+      "regionName": "龙岩",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "153",
+      "regionName": "泉州",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "154",
+      "regionName": "漳州",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "155",
+      "regionName": "厦门",
+      "parentId": "14"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "156",
+      "regionName": "南昌",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "157",
+      "regionName": "九江",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "158",
+      "regionName": "景德镇",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "159",
+      "regionName": "上饶",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "160",
+      "regionName": "鹰潭",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "161",
+      "regionName": "抚州",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "162",
+      "regionName": "新余",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "163",
+      "regionName": "宜春",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "164",
+      "regionName": "萍乡",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "165",
+      "regionName": "吉安",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "166",
+      "regionName": "赣州",
+      "parentId": "15"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "167",
+      "regionName": "济南",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "168",
+      "regionName": "德州",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "169",
+      "regionName": "滨州",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "170",
+      "regionName": "东营",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "171",
+      "regionName": "烟台",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "172",
+      "regionName": "威海",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "173",
+      "regionName": "淄博",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "174",
+      "regionName": "潍坊",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "175",
+      "regionName": "聊城",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "176",
+      "regionName": "泰安",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "177",
+      "regionName": "莱芜",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "178",
+      "regionName": "青岛",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "179",
+      "regionName": "日照",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "180",
+      "regionName": "济宁",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "181",
+      "regionName": "菏泽",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "182",
+      "regionName": "临沂",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "183",
+      "regionName": "枣庄",
+      "parentId": "16"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "184",
+      "regionName": "郑州",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "185",
+      "regionName": "安阳",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "186",
+      "regionName": "鹤壁",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "187",
+      "regionName": "濮阳",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "188",
+      "regionName": "新乡",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "189",
+      "regionName": "焦作",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "190",
+      "regionName": "三门峡",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "191",
+      "regionName": "开封",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "192",
+      "regionName": "洛阳",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "193",
+      "regionName": "商丘",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "194",
+      "regionName": "许昌",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "195",
+      "regionName": "平顶山",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "196",
+      "regionName": "周口",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "197",
+      "regionName": "漯河",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "198",
+      "regionName": "南阳",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "199",
+      "regionName": "驻马店",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "200",
+      "regionName": "信阳",
+      "parentId": "17"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "201",
+      "regionName": "武汉",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "202",
+      "regionName": "十堰",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "203",
+      "regionName": "襄樊",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "204",
+      "regionName": "随州",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "205",
+      "regionName": "荆门",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "206",
+      "regionName": "孝感",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "207",
+      "regionName": "宜昌",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "208",
+      "regionName": "黄冈",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "209",
+      "regionName": "鄂州",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "210",
+      "regionName": "荆州",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "211",
+      "regionName": "黄石",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "212",
+      "regionName": "咸宁",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "213",
+      "regionName": "恩施土家族苗族自治州",
+      "parentId": "18"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "214",
+      "regionName": "长沙",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "215",
+      "regionName": "岳阳",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "216",
+      "regionName": "张家界",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "217",
+      "regionName": "常德",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "218",
+      "regionName": "益阳",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "219",
+      "regionName": "湘潭",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "220",
+      "regionName": "株洲",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "221",
+      "regionName": "娄底",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "222",
+      "regionName": "怀化",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "223",
+      "regionName": "邵阳",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "224",
+      "regionName": "衡阳",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "225",
+      "regionName": "永州",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "226",
+      "regionName": "郴州",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "227",
+      "regionName": "湘西自治州",
+      "parentId": "19"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "229",
+      "regionName": "韶关",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "230",
+      "regionName": "梅州",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "231",
+      "regionName": "河源",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "232",
+      "regionName": "清远",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "233",
+      "regionName": "潮州",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "234",
+      "regionName": "揭阳",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "236",
+      "regionName": "肇庆",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "237",
+      "regionName": "惠州",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "240",
+      "regionName": "云浮",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "241",
+      "regionName": "汕尾",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "242",
+      "regionName": "江门",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "243",
+      "regionName": "中山",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "246",
+      "regionName": "阳江",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "247",
+      "regionName": "茂名",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "248",
+      "regionName": "湛江",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "249",
+      "regionName": "南宁",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "250",
+      "regionName": "桂林",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "251",
+      "regionName": "河池",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "252",
+      "regionName": "贺州",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "253",
+      "regionName": "柳州",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "254",
+      "regionName": "百色",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "255",
+      "regionName": "来宾",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "256",
+      "regionName": "梧州",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "257",
+      "regionName": "贵港",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "258",
+      "regionName": "玉林",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "259",
+      "regionName": "崇左",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "260",
+      "regionName": "钦州",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "261",
+      "regionName": "防城港",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "262",
+      "regionName": "北海",
+      "parentId": "21"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "263",
+      "regionName": "海口",
+      "parentId": "22"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "264",
+      "regionName": "三亚",
+      "parentId": "22"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "265",
+      "regionName": "三沙",
+      "parentId": "22"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "266",
+      "regionName": "儋州",
+      "parentId": "22"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "267",
+      "regionName": "成都",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "268",
+      "regionName": "广元",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "269",
+      "regionName": "巴中",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "270",
+      "regionName": "绵阳",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "271",
+      "regionName": "德阳",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "272",
+      "regionName": "达州",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "273",
+      "regionName": "南充",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "274",
+      "regionName": "遂宁",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "275",
+      "regionName": "广安",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "276",
+      "regionName": "资阳",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "277",
+      "regionName": "眉山",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "278",
+      "regionName": "雅安",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "279",
+      "regionName": "内江",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "280",
+      "regionName": "乐山",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "281",
+      "regionName": "自贡",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "282",
+      "regionName": "泸州",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "283",
+      "regionName": "宜宾",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "284",
+      "regionName": "攀枝花",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "285",
+      "regionName": "阿坝藏族羌族自治州",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "286",
+      "regionName": "凉山彝族自治州",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "287",
+      "regionName": "甘孜藏族自治州",
+      "parentId": "23"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "288",
+      "regionName": "贵阳",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "289",
+      "regionName": "遵义",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "290",
+      "regionName": "六盘水",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "291",
+      "regionName": "安顺",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "292",
+      "regionName": "毕节",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "293",
+      "regionName": "铜仁",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "294",
+      "regionName": "黔东南苗族侗族自治州",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "295",
+      "regionName": "黔南布依族苗族自治州",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "296",
+      "regionName": "黔西南布依族苗族自治州",
+      "parentId": "24"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "297",
+      "regionName": "昆明",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "298",
+      "regionName": "昭通",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "299",
+      "regionName": "丽江",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "300",
+      "regionName": "曲靖",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "301",
+      "regionName": "保山",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "302",
+      "regionName": "玉溪",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "303",
+      "regionName": "临沧",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "304",
+      "regionName": "普洱",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "305",
+      "regionName": "西双版纳傣族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "306",
+      "regionName": "文山壮族苗族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "307",
+      "regionName": "红河哈尼族彝族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "308",
+      "regionName": "德宏傣族景颇族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "309",
+      "regionName": "怒江僳僳族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "310",
+      "regionName": "迪庆藏族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "311",
+      "regionName": "大理白族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "312",
+      "regionName": "楚雄彝族自治州",
+      "parentId": "25"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "313",
+      "regionName": "拉萨",
+      "parentId": "26"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "314",
+      "regionName": "日喀则",
+      "parentId": "26"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "315",
+      "regionName": "昌都",
+      "parentId": "26"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "316",
+      "regionName": "林芝",
+      "parentId": "26"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "317",
+      "regionName": "山南",
+      "parentId": "26"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "318",
+      "regionName": "那曲地区",
+      "parentId": "26"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "319",
+      "regionName": "阿里地区",
+      "parentId": "26"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "320",
+      "regionName": "西安",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "321",
+      "regionName": "榆林",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "322",
+      "regionName": "延安",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "323",
+      "regionName": "铜川",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "324",
+      "regionName": "渭南",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "325",
+      "regionName": "宝鸡",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "326",
+      "regionName": "咸阳",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "327",
+      "regionName": "商洛",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "328",
+      "regionName": "汉中",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "329",
+      "regionName": "安康",
+      "parentId": "27"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "330",
+      "regionName": "兰州",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "331",
+      "regionName": "嘉峪关",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "332",
+      "regionName": "酒泉",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "333",
+      "regionName": "张掖",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "334",
+      "regionName": "金昌",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "335",
+      "regionName": "武威",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "336",
+      "regionName": "白银",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "337",
+      "regionName": "庆阳",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "338",
+      "regionName": "平凉",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "339",
+      "regionName": "定西",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "340",
+      "regionName": "天水",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "341",
+      "regionName": "陇南",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "342",
+      "regionName": "临夏回族自治州",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "343",
+      "regionName": "甘南藏族自治州",
+      "parentId": "28"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "344",
+      "regionName": "西宁",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "345",
+      "regionName": "海东",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "346",
+      "regionName": "海北藏族自治州",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "347",
+      "regionName": "黄南藏族自治州",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "348",
+      "regionName": "海南藏族自治州",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "349",
+      "regionName": "果洛藏族自治州",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "350",
+      "regionName": "玉树藏族自治州",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "351",
+      "regionName": "海西蒙古族藏族自治州",
+      "parentId": "29"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "352",
+      "regionName": "银川",
+      "parentId": "30"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "353",
+      "regionName": "石嘴山",
+      "parentId": "30"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "354",
+      "regionName": "吴忠",
+      "parentId": "30"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "355",
+      "regionName": "中卫",
+      "parentId": "30"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "356",
+      "regionName": "固原",
+      "parentId": "30"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "357",
+      "regionName": "乌鲁木齐",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "358",
+      "regionName": "克拉玛依",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "359",
+      "regionName": "吐鲁番",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "360",
+      "regionName": "哈密",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "361",
+      "regionName": "和田地区",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "362",
+      "regionName": "阿克苏地区",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "363",
+      "regionName": "喀什地区",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "364",
+      "regionName": "塔城地区",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "365",
+      "regionName": "阿勒泰地区",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "366",
+      "regionName": "昌吉回族自治州",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "367",
+      "regionName": "巴音郭楞蒙古自治州",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "368",
+      "regionName": "克孜勒苏柯尔克孜自治州",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "369",
+      "regionName": "博尔塔拉蒙古自治州",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 0,
+      "regionId": "370",
+      "regionName": "伊犁哈萨克自治州",
+      "parentId": "31"
+    },
+    {
+      "regionAcount": 6,
+      "regionId": "235",
+      "regionName": "汕头",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 7,
+      "regionId": "228",
+      "regionName": "广州",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 7,
+      "regionId": "244",
+      "regionName": "深圳",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 8,
+      "regionId": "239",
+      "regionName": "东莞",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 12,
+      "regionId": "238",
+      "regionName": "佛山",
+      "parentId": "20"
+    },
+    {
+      "regionAcount": 24,
+      "regionId": "245",
+      "regionName": "珠海",
+      "parentId": "20"
+    }
+  ]
